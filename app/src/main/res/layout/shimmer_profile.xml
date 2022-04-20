@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+        app:cardCornerRadius="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="8dp">
+
+            <TextView
+                android:id="@+id/ltite"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/graay"
+                android:gravity="center"
+                android:text="sadasdaszzsasfaasdfsd asd\n\n\n\\n\n\nn\n\n"
+                android:textColor="@color/graay"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/ldescri"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/ltite"
+                android:layout_marginTop="40dp"
+                android:background="@color/graay"
+                android:gravity="center"
+                android:text=" sdf  sadf\n\n\n\nn\n\nn\n  as fd sa df  sdf s df s\n\n\\n\n\n\nn\n\nn\n\n\n\n\n\n\\n\n dfas df  sadf  sadf  sdf  sdf s df \nsadf sd f sdf"
+                android:textColor="@color/graay"
+                android:textSize="20dp" />
+
+
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

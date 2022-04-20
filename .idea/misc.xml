@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/drawable-v24/custom_rectangle.xml" value="0.22179487179487178" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/drawable/backg.xml" value="0.14635416666666667" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/drawable/text_border.xml" value="0.2189873417721519" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/layout/activity_assignment.xml" value="0.20854700854700856" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/layout/activity_dashboard.xml" value="0.20854700854700856" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/layout/activity_home_work.xml" value="0.20854700854700856" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/layout/activity_leave.xml" value="0.20854700854700856" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/layout/activity_log_in.xml" value="0.2" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/layout/activity_material.xml" value="0.20854700854700856" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/layout/activity_notice.xml" value="0.20854700854700856" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/layout/activity_proces.xml" value="0.2" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/layout/activity_profile.xml" value="0.20854700854700856" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/layout/activity_quotess.xml" value="0.12564102564102564" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/layout/activity_register.xml" value="0.20854700854700856" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/layout/activity_slash_screen.xml" value="0.20854700854700856" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/layout/activity_suggesions.xml" value="0.16" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/layout/activity_suggpro.xml" value="0.12564102564102564" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/layout/assignmentlayout.xml" value="0.20854700854700856" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/layout/homeworklayout.xml" value="0.20854700854700856" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/layout/listlayout.xml" value="0.152" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/layout/login.xml" value="0.197008547008547" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/layout/materiallayout.xml" value="0.20854700854700856" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/layout/quoteslayout.xml" value="0.2" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/layout/shimmer_back.xml" value="0.20854700854700856" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/layout/shimmer_layout.xml" value="0.20854700854700856" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/layout/shimmer_profile.xml" value="0.20854700854700856" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1388888888888889" />
+        <entry key="..\:/MyAndroid/schoolmgt/app/src/main/res/xml/network_security_config.xml" value="0.12564102564102564" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
